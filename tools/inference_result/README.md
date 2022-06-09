@@ -1,1 +1,0 @@
-# Test results stored here.
